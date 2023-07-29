@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate with Web3 Projects.
 - 📫 How to reach me? DM me at Twitter: @xSenzify
 - 🔗 https://twitter.com/xSenzify
+![IMG_2702](https://github.com/Senzify/Senzify/assets/140898177/892b60cc-0246-4f14-9518-3c570fcc93bb)
 
 <!---
 Senzify/Senzify is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
