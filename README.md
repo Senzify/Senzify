@@ -1,10 +1,10 @@
-- 👋 Hi, I’m Senz.
-- 👀 I’m interested in Web3, NFT's & Crypto.
-- 🌱 I’m currently learning Web3.
+- 👋 Hi, I’m Cench.
+- 👀 I’m interested in Forex, Web3, NFT's & Crypto.
+- 🌱 I’m currently learning Forex Trading.
 - 💞️ I’m looking to collaborate with Web3 Projects.
-- 📫 How to reach me? DM me at Twitter: @xSenzify
-- 🔗 https://twitter.com/xSenzify
-![IMG_2702](https://github.com/Senzify/Senzify/assets/140898177/892b60cc-0246-4f14-9518-3c570fcc93bb)
+- 📫 How to reach me? DM me at Twitter: @Cench_sol
+- 🔗 https://twitter.com/cench_sol
+![banner](https://github.com/Senzify/Senzify/assets/140898177/45443b74-f3b8-423b-8b37-593197d7848d)
 
 <!---
 Senzify/Senzify is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
